@@ -21,6 +21,7 @@ kotlin {
 				implementation(compose.runtime)
 				implementation("org.jetbrains:kotlin-react:17.0.2-pre.155-kotlin-1.4.32")
 				implementation("org.jetbrains:kotlin-react-dom:17.0.2-pre.155-kotlin-1.4.32")
+				implementation("org.jetbrains:kotlin-styled:5.2.3-pre.154-kotlin-1.4.32")
 				implementation(npm("react", "17.0.2"))
 				implementation(npm("react-dom", "17.0.2"))
 				implementation(npm("react-youtube-lite", "1.0.1"))
